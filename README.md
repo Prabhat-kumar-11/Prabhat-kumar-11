@@ -4,7 +4,7 @@
 <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="gif img">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prabhat-kumar-11&label=Profile%20views&color=0e75b6&style=flat" alt="Prabhat-kumar-11" /> </p>
 
-- 🌱 I’m currently studying in **Masai School**
+- 🌱 I’m currently studying at **Masai School**
 
 - 💬 Ask me about **JAVASCRIPT | REACT**
 
