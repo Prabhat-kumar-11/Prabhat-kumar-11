@@ -9,7 +9,7 @@
 - 💬 Ask me about **JAVASCRIPT | REACT**
 
 - 📫 How to reach me **prabhssgg3@gmail.com**
--  Portfolio **https://Prabhat-kumar-11.github.io**
+-  Portfolio **https://prabhat-kumar-11.github.io**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
