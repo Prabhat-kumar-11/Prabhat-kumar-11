@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently studying at **Masai School**
 
-- 💬 Ask me about **JAVASCRIPT | REACT**
+- 💬 Ask me about **JavaScript | React.js**
 
 - 📫 How to reach me **prabhssgg3@gmail.com**
 -  Portfolio **https://prabhat-kumar-11.github.io/**
