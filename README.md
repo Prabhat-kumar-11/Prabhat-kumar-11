@@ -41,8 +41,13 @@
  </div>
 </div>
 <br/>
+<h1> 📊 GitHub Stats:</h1>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabhat-kumar-11&show_icons=true&locale=en&layout=compact" alt="Prabhat-kumar-11" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prabhat-kumar-11&show_icons=true&locale=en" alt="Prabhat-kumar-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhat-kumar-11" alt="Prabhat-kumar-11" /></p>
+
+<h1> 🏆 GitHub Trophies </h1>
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Prabhat-kumar-11&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Prabhat-kumar-11" /></p>
